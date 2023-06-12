@@ -229,12 +229,7 @@ class _HomePageState extends State<HomePage> {
                         });
                       },
                       dropdownColor: HexColor("#4b4293"),
-                      items: <String>[
-                        'English',
-                        'French',
-                        'German',
-                        'Spanish',
-                      ].map<DropdownMenuItem<String>>((String value) {
+                      items: romanScriptLanguages.map<DropdownMenuItem<String>>((String value) {
                         return DropdownMenuItem<String>(
                           value: value,
                           child: Text(
