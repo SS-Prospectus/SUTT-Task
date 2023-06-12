@@ -1,0 +1,469 @@
+[?25l⠋ Fetching available Firebase projects...                                       
+[A[2K⠙ Fetching available Firebase projects...                                       
+[A[2K⠹ Fetching available Firebase projects...                                       
+[A[2K⠸ Fetching available Firebase projects...                                       
+[A[2K⠼ Fetching available Firebase projects...                                       
+[A[2K⠴ Fetching available Firebase projects...                                       
+[A[2K⠦ Fetching available Firebase projects...                                       
+[A[2K⠧ Fetching available Firebase projects...                                       
+[A[2K⠇ Fetching available Firebase projects...                                       
+[A[2K⠏ Fetching available Firebase projects...                                       
+[A[2K⠋ Fetching available Firebase projects...                                       
+[A[2K⠙ Fetching available Firebase projects...                                       
+[A[2K⠹ Fetching available Firebase projects...                                       
+[A[2K⠸ Fetching available Firebase projects...                                       
+[A[2K⠼ Fetching available Firebase projects...                                       
+[A[2K⠴ Fetching available Firebase projects...                                       
+[A[2K⠦ Fetching available Firebase projects...                                       
+[A[2K⠧ Fetching available Firebase projects...                                       
+[A[2K⠇ Fetching available Firebase projects...                                       
+[A[2K⠏ Fetching available Firebase projects...                                       
+[A[2K⠋ Fetching available Firebase projects...                                       
+[A[2K⠙ Fetching available Firebase projects...                                       
+[A[2K⠹ Fetching available Firebase projects...                                       
+[A[2K⠸ Fetching available Firebase projects...                                       
+[A[2K⠼ Fetching available Firebase projects...                                       
+[A[2K⠴ Fetching available Firebase projects...                                       
+[A[2K⠦ Fetching available Firebase projects...                                       
+[A[2K⠧ Fetching available Firebase projects...                                       
+[A[2K⠇ Fetching available Firebase projects...                                       
+[A[2K⠏ Fetching available Firebase projects...                                       
+[A[2K⠋ Fetching available Firebase projects...                                       
+[A[2K⠙ Fetching available Firebase projects...                                       
+[A[2K⠹ Fetching available Firebase projects...                                       
+[A[2K⠸ Fetching available Firebase projects...                                       
+[A[2K⠼ Fetching available Firebase projects...                                       
+[A[2K⠴ Fetching available Firebase projects...                                       
+[A[2K⠦ Fetching available Firebase projects...                                       
+[A[2K⠧ Fetching available Firebase projects...                                       
+[A[2K⠇ Fetching available Firebase projects...                                       
+[A[2K⠏ Fetching available Firebase projects...                                       
+[A[2K⠋ Fetching available Firebase projects...                                       
+[A[2K⠙ Fetching available Firebase projects...                                       
+[A[2K⠹ Fetching available Firebase projects...                                       
+[A[2Ki Found 7 Firebase projects.                                                    
+[?25h? Select a Firebase project to configure your Flutter application with ›        
+[?25l❯ dvm-task-2-41d6f (dvm task 2)                                                 
+  dvm-task-2-d49ee (dvm-task-2)                                                 
+  dvm-task2-final (dvm-task2-final)                                             
+  sutt-task-810c3 (SUTT-Task)                                                   
+  sutt-task-final (sutt task final)                                             
+  translatorx-e39d5 (translatorx)                                               
+  translatorx-final (TranslatorX-final)                                         
+  <create a new project>                                                        
+[A[2K[A[2K[A[2K[A[2K[A[2K[A[2K[A[2K[A[2K[A[2K✔ Select a Firebase project to configure your Flutter application with · dvm-task-2-41d6f (dvm task 2) 
+[?25h? Which platforms should your configuration support (use arrow keys & space to select)? › 
+[?25l✔ android                                                                       
+✔ ios                                                                           
+✔ macos                                                                         
+✔ web                                                                           
+[A[2K[A[2K[A[2K[A[2K[A[2K✔ Which platforms should your configuration support (use arrow keys & space to select)? · android, ios, macos, web 
+[?25h[?25l⠋ Fetching registered android Firebase apps for project dvm-task-2-41d6f        
+[A[2K⠙ Fetching registered android Firebase apps for project dvm-task-2-41d6f        
+[A[2K⠹ Fetching registered android Firebase apps for project dvm-task-2-41d6f        
+[A[2K⠸ Fetching registered android Firebase apps for project dvm-task-2-41d6f        
+[A[2K⠼ Fetching registered android Firebase apps for project dvm-task-2-41d6f        
+[A[2K⠴ Fetching registered android Firebase apps for project dvm-task-2-41d6f        
+[A[2K⠦ Fetching registered android Firebase apps for project dvm-task-2-41d6f        
+[A[2K⠧ Fetching registered android Firebase apps for project dvm-task-2-41d6f        
+[A[2K⠇ Fetching registered android Firebase apps for project dvm-task-2-41d6f        
+[A[2K⠏ Fetching registered android Firebase apps for project dvm-task-2-41d6f        
+[A[2K⠋ Fetching registered android Firebase apps for project dvm-task-2-41d6f        
+[A[2K⠙ Fetching registered android Firebase apps for project dvm-task-2-41d6f        
+[A[2K⠹ Fetching registered android Firebase apps for project dvm-task-2-41d6f        
+[A[2K⠸ Fetching registered android Firebase apps for project dvm-task-2-41d6f        
+[A[2K⠼ Fetching registered android Firebase apps for project dvm-task-2-41d6f        
+[A[2K⠴ Fetching registered android Firebase apps for project dvm-task-2-41d6f        
+[A[2K⠦ Fetching registered android Firebase apps for project dvm-task-2-41d6f        
+[A[2K⠧ Fetching registered android Firebase apps for project dvm-task-2-41d6f        
+[A[2K⠇ Fetching registered android Firebase apps for project dvm-task-2-41d6f        
+[A[2K⠏ Fetching registered android Firebase apps for project dvm-task-2-41d6f        
+[A[2Ki Firebase android app com.example.sutt_task_final is not registered on Firebase project dvm-task-2-41d6f.
+[?25h[?25l⠋ Registering new Firebase android app on Firebase project dvm-task-2-41d6f.    
+[A[2K⠙ Registering new Firebase android app on Firebase project dvm-task-2-41d6f.    
+[A[2K⠹ Registering new Firebase android app on Firebase project dvm-task-2-41d6f.    
+[A[2K⠸ Registering new Firebase android app on Firebase project dvm-task-2-41d6f.    
+[A[2K⠼ Registering new Firebase android app on Firebase project dvm-task-2-41d6f.    
+[A[2K⠴ Registering new Firebase android app on Firebase project dvm-task-2-41d6f.    
+[A[2K⠦ Registering new Firebase android app on Firebase project dvm-task-2-41d6f.    
+[A[2K⠧ Registering new Firebase android app on Firebase project dvm-task-2-41d6f.    
+[A[2K⠇ Registering new Firebase android app on Firebase project dvm-task-2-41d6f.    
+[A[2K⠏ Registering new Firebase android app on Firebase project dvm-task-2-41d6f.    
+[A[2K⠋ Registering new Firebase android app on Firebase project dvm-task-2-41d6f.    
+[A[2K⠙ Registering new Firebase android app on Firebase project dvm-task-2-41d6f.    
+[A[2K⠹ Registering new Firebase android app on Firebase project dvm-task-2-41d6f.    
+[A[2K⠸ Registering new Firebase android app on Firebase project dvm-task-2-41d6f.    
+[A[2K⠼ Registering new Firebase android app on Firebase project dvm-task-2-41d6f.    
+[A[2K⠴ Registering new Firebase android app on Firebase project dvm-task-2-41d6f.    
+[A[2K⠦ Registering new Firebase android app on Firebase project dvm-task-2-41d6f.    
+[A[2K⠧ Registering new Firebase android app on Firebase project dvm-task-2-41d6f.    
+[A[2K⠇ Registering new Firebase android app on Firebase project dvm-task-2-41d6f.    
+[A[2K⠏ Registering new Firebase android app on Firebase project dvm-task-2-41d6f.    
+[A[2K⠋ Registering new Firebase android app on Firebase project dvm-task-2-41d6f.    
+[A[2K⠙ Registering new Firebase android app on Firebase project dvm-task-2-41d6f.    
+[A[2K⠹ Registering new Firebase android app on Firebase project dvm-task-2-41d6f.    
+[A[2K⠸ Registering new Firebase android app on Firebase project dvm-task-2-41d6f.    
+[A[2K⠼ Registering new Firebase android app on Firebase project dvm-task-2-41d6f.    
+[A[2K⠴ Registering new Firebase android app on Firebase project dvm-task-2-41d6f.    
+[A[2K⠦ Registering new Firebase android app on Firebase project dvm-task-2-41d6f.    
+[A[2K⠧ Registering new Firebase android app on Firebase project dvm-task-2-41d6f.    
+[A[2K⠇ Registering new Firebase android app on Firebase project dvm-task-2-41d6f.    
+[A[2K⠏ Registering new Firebase android app on Firebase project dvm-task-2-41d6f.    
+[A[2K⠋ Registering new Firebase android app on Firebase project dvm-task-2-41d6f.    
+[A[2K⠙ Registering new Firebase android app on Firebase project dvm-task-2-41d6f.    
+[A[2K⠹ Registering new Firebase android app on Firebase project dvm-task-2-41d6f.    
+[A[2K⠸ Registering new Firebase android app on Firebase project dvm-task-2-41d6f.    
+[A[2K⠼ Registering new Firebase android app on Firebase project dvm-task-2-41d6f.    
+[A[2K⠴ Registering new Firebase android app on Firebase project dvm-task-2-41d6f.    
+[A[2K⠦ Registering new Firebase android app on Firebase project dvm-task-2-41d6f.    
+[A[2K⠧ Registering new Firebase android app on Firebase project dvm-task-2-41d6f.    
+[A[2K⠇ Registering new Firebase android app on Firebase project dvm-task-2-41d6f.    
+[A[2K⠏ Registering new Firebase android app on Firebase project dvm-task-2-41d6f.    
+[A[2K⠋ Registering new Firebase android app on Firebase project dvm-task-2-41d6f.    
+[A[2K⠙ Registering new Firebase android app on Firebase project dvm-task-2-41d6f.    
+[A[2K⠹ Registering new Firebase android app on Firebase project dvm-task-2-41d6f.    
+[A[2K⠸ Registering new Firebase android app on Firebase project dvm-task-2-41d6f.    
+[A[2K⠼ Registering new Firebase android app on Firebase project dvm-task-2-41d6f.    
+[A[2K⠴ Registering new Firebase android app on Firebase project dvm-task-2-41d6f.    
+[A[2K⠦ Registering new Firebase android app on Firebase project dvm-task-2-41d6f.    
+[A[2K⠧ Registering new Firebase android app on Firebase project dvm-task-2-41d6f.    
+[A[2K⠇ Registering new Firebase android app on Firebase project dvm-task-2-41d6f.    
+[A[2K⠏ Registering new Firebase android app on Firebase project dvm-task-2-41d6f.    
+[A[2K⠋ Registering new Firebase android app on Firebase project dvm-task-2-41d6f.    
+[A[2K⠙ Registering new Firebase android app on Firebase project dvm-task-2-41d6f.    
+[A[2K⠹ Registering new Firebase android app on Firebase project dvm-task-2-41d6f.    
+[A[2K⠸ Registering new Firebase android app on Firebase project dvm-task-2-41d6f.    
+[A[2K⠼ Registering new Firebase android app on Firebase project dvm-task-2-41d6f.    
+[A[2K⠴ Registering new Firebase android app on Firebase project dvm-task-2-41d6f.    
+[A[2K⠦ Registering new Firebase android app on Firebase project dvm-task-2-41d6f.    
+[A[2K⠧ Registering new Firebase android app on Firebase project dvm-task-2-41d6f.    
+[A[2K⠇ Registering new Firebase android app on Firebase project dvm-task-2-41d6f.    
+[A[2K⠏ Registering new Firebase android app on Firebase project dvm-task-2-41d6f.    
+[A[2K⠋ Registering new Firebase android app on Firebase project dvm-task-2-41d6f.    
+[A[2K⠙ Registering new Firebase android app on Firebase project dvm-task-2-41d6f.    
+[A[2K⠹ Registering new Firebase android app on Firebase project dvm-task-2-41d6f.    
+[A[2K⠸ Registering new Firebase android app on Firebase project dvm-task-2-41d6f.    
+[A[2K⠼ Registering new Firebase android app on Firebase project dvm-task-2-41d6f.    
+[A[2K⠴ Registering new Firebase android app on Firebase project dvm-task-2-41d6f.    
+[A[2K⠦ Registering new Firebase android app on Firebase project dvm-task-2-41d6f.    
+[A[2K⠧ Registering new Firebase android app on Firebase project dvm-task-2-41d6f.    
+[A[2K⠇ Registering new Firebase android app on Firebase project dvm-task-2-41d6f.    
+[A[2K⠏ Registering new Firebase android app on Firebase project dvm-task-2-41d6f.    
+[A[2K⠋ Registering new Firebase android app on Firebase project dvm-task-2-41d6f.    
+[A[2K⠙ Registering new Firebase android app on Firebase project dvm-task-2-41d6f.    
+[A[2K⠹ Registering new Firebase android app on Firebase project dvm-task-2-41d6f.    
+[A[2K⠸ Registering new Firebase android app on Firebase project dvm-task-2-41d6f.    
+[A[2K⠼ Registering new Firebase android app on Firebase project dvm-task-2-41d6f.    
+[A[2Ki Registered a new Firebase android app on Firebase project dvm-task-2-41d6f.   
+[?25h[?25l⠋ Fetching registered ios Firebase apps for project dvm-task-2-41d6f            
+[A[2K⠙ Fetching registered ios Firebase apps for project dvm-task-2-41d6f            
+[A[2K⠹ Fetching registered ios Firebase apps for project dvm-task-2-41d6f            
+[A[2K⠸ Fetching registered ios Firebase apps for project dvm-task-2-41d6f            
+[A[2K⠼ Fetching registered ios Firebase apps for project dvm-task-2-41d6f            
+[A[2K⠴ Fetching registered ios Firebase apps for project dvm-task-2-41d6f            
+[A[2K⠦ Fetching registered ios Firebase apps for project dvm-task-2-41d6f            
+[A[2K⠧ Fetching registered ios Firebase apps for project dvm-task-2-41d6f            
+[A[2K⠇ Fetching registered ios Firebase apps for project dvm-task-2-41d6f            
+[A[2K⠏ Fetching registered ios Firebase apps for project dvm-task-2-41d6f            
+[A[2K⠋ Fetching registered ios Firebase apps for project dvm-task-2-41d6f            
+[A[2K⠙ Fetching registered ios Firebase apps for project dvm-task-2-41d6f            
+[A[2K⠹ Fetching registered ios Firebase apps for project dvm-task-2-41d6f            
+[A[2K⠸ Fetching registered ios Firebase apps for project dvm-task-2-41d6f            
+[A[2K⠼ Fetching registered ios Firebase apps for project dvm-task-2-41d6f            
+[A[2K⠴ Fetching registered ios Firebase apps for project dvm-task-2-41d6f            
+[A[2K⠦ Fetching registered ios Firebase apps for project dvm-task-2-41d6f            
+[A[2K⠧ Fetching registered ios Firebase apps for project dvm-task-2-41d6f            
+[A[2K⠇ Fetching registered ios Firebase apps for project dvm-task-2-41d6f            
+[A[2Ki Firebase ios app com.example.suttTaskFinal is not registered on Firebase project dvm-task-2-41d6f.
+[?25h[?25l⠋ Registering new Firebase ios app on Firebase project dvm-task-2-41d6f.        
+[A[2K⠙ Registering new Firebase ios app on Firebase project dvm-task-2-41d6f.        
+[A[2K⠹ Registering new Firebase ios app on Firebase project dvm-task-2-41d6f.        
+[A[2K⠸ Registering new Firebase ios app on Firebase project dvm-task-2-41d6f.        
+[A[2K⠼ Registering new Firebase ios app on Firebase project dvm-task-2-41d6f.        
+[A[2K⠴ Registering new Firebase ios app on Firebase project dvm-task-2-41d6f.        
+[A[2K⠦ Registering new Firebase ios app on Firebase project dvm-task-2-41d6f.        
+[A[2K⠧ Registering new Firebase ios app on Firebase project dvm-task-2-41d6f.        
+[A[2K⠇ Registering new Firebase ios app on Firebase project dvm-task-2-41d6f.        
+[A[2K⠏ Registering new Firebase ios app on Firebase project dvm-task-2-41d6f.        
+[A[2K⠋ Registering new Firebase ios app on Firebase project dvm-task-2-41d6f.        
+[A[2K⠙ Registering new Firebase ios app on Firebase project dvm-task-2-41d6f.        
+[A[2K⠹ Registering new Firebase ios app on Firebase project dvm-task-2-41d6f.        
+[A[2K⠸ Registering new Firebase ios app on Firebase project dvm-task-2-41d6f.        
+[A[2K⠼ Registering new Firebase ios app on Firebase project dvm-task-2-41d6f.        
+[A[2K⠴ Registering new Firebase ios app on Firebase project dvm-task-2-41d6f.        
+[A[2K⠦ Registering new Firebase ios app on Firebase project dvm-task-2-41d6f.        
+[A[2K⠧ Registering new Firebase ios app on Firebase project dvm-task-2-41d6f.        
+[A[2K⠇ Registering new Firebase ios app on Firebase project dvm-task-2-41d6f.        
+[A[2K⠏ Registering new Firebase ios app on Firebase project dvm-task-2-41d6f.        
+[A[2K⠋ Registering new Firebase ios app on Firebase project dvm-task-2-41d6f.        
+[A[2K⠙ Registering new Firebase ios app on Firebase project dvm-task-2-41d6f.        
+[A[2K⠹ Registering new Firebase ios app on Firebase project dvm-task-2-41d6f.        
+[A[2K⠸ Registering new Firebase ios app on Firebase project dvm-task-2-41d6f.        
+[A[2K⠼ Registering new Firebase ios app on Firebase project dvm-task-2-41d6f.        
+[A[2K⠴ Registering new Firebase ios app on Firebase project dvm-task-2-41d6f.        
+[A[2K⠦ Registering new Firebase ios app on Firebase project dvm-task-2-41d6f.        
+[A[2K⠧ Registering new Firebase ios app on Firebase project dvm-task-2-41d6f.        
+[A[2K⠇ Registering new Firebase ios app on Firebase project dvm-task-2-41d6f.        
+[A[2K⠏ Registering new Firebase ios app on Firebase project dvm-task-2-41d6f.        
+[A[2K⠋ Registering new Firebase ios app on Firebase project dvm-task-2-41d6f.        
+[A[2K⠙ Registering new Firebase ios app on Firebase project dvm-task-2-41d6f.        
+[A[2K⠹ Registering new Firebase ios app on Firebase project dvm-task-2-41d6f.        
+[A[2K⠸ Registering new Firebase ios app on Firebase project dvm-task-2-41d6f.        
+[A[2K⠼ Registering new Firebase ios app on Firebase project dvm-task-2-41d6f.        
+[A[2K⠴ Registering new Firebase ios app on Firebase project dvm-task-2-41d6f.        
+[A[2K⠦ Registering new Firebase ios app on Firebase project dvm-task-2-41d6f.        
+[A[2K⠧ Registering new Firebase ios app on Firebase project dvm-task-2-41d6f.        
+[A[2K⠇ Registering new Firebase ios app on Firebase project dvm-task-2-41d6f.        
+[A[2K⠏ Registering new Firebase ios app on Firebase project dvm-task-2-41d6f.        
+[A[2K⠋ Registering new Firebase ios app on Firebase project dvm-task-2-41d6f.        
+[A[2K⠙ Registering new Firebase ios app on Firebase project dvm-task-2-41d6f.        
+[A[2K⠹ Registering new Firebase ios app on Firebase project dvm-task-2-41d6f.        
+[A[2K⠸ Registering new Firebase ios app on Firebase project dvm-task-2-41d6f.        
+[A[2K⠼ Registering new Firebase ios app on Firebase project dvm-task-2-41d6f.        
+[A[2K⠴ Registering new Firebase ios app on Firebase project dvm-task-2-41d6f.        
+[A[2K⠦ Registering new Firebase ios app on Firebase project dvm-task-2-41d6f.        
+[A[2K⠧ Registering new Firebase ios app on Firebase project dvm-task-2-41d6f.        
+[A[2K⠇ Registering new Firebase ios app on Firebase project dvm-task-2-41d6f.        
+[A[2K⠏ Registering new Firebase ios app on Firebase project dvm-task-2-41d6f.        
+[A[2K⠋ Registering new Firebase ios app on Firebase project dvm-task-2-41d6f.        
+[A[2K⠙ Registering new Firebase ios app on Firebase project dvm-task-2-41d6f.        
+[A[2K⠹ Registering new Firebase ios app on Firebase project dvm-task-2-41d6f.        
+[A[2K⠸ Registering new Firebase ios app on Firebase project dvm-task-2-41d6f.        
+[A[2K⠼ Registering new Firebase ios app on Firebase project dvm-task-2-41d6f.        
+[A[2K⠴ Registering new Firebase ios app on Firebase project dvm-task-2-41d6f.        
+[A[2K⠦ Registering new Firebase ios app on Firebase project dvm-task-2-41d6f.        
+[A[2K⠧ Registering new Firebase ios app on Firebase project dvm-task-2-41d6f.        
+[A[2K⠇ Registering new Firebase ios app on Firebase project dvm-task-2-41d6f.        
+[A[2K⠏ Registering new Firebase ios app on Firebase project dvm-task-2-41d6f.        
+[A[2K⠋ Registering new Firebase ios app on Firebase project dvm-task-2-41d6f.        
+[A[2K⠙ Registering new Firebase ios app on Firebase project dvm-task-2-41d6f.        
+[A[2K⠹ Registering new Firebase ios app on Firebase project dvm-task-2-41d6f.        
+[A[2K⠸ Registering new Firebase ios app on Firebase project dvm-task-2-41d6f.        
+[A[2K⠼ Registering new Firebase ios app on Firebase project dvm-task-2-41d6f.        
+[A[2K⠴ Registering new Firebase ios app on Firebase project dvm-task-2-41d6f.        
+[A[2K⠦ Registering new Firebase ios app on Firebase project dvm-task-2-41d6f.        
+[A[2K⠧ Registering new Firebase ios app on Firebase project dvm-task-2-41d6f.        
+[A[2K⠇ Registering new Firebase ios app on Firebase project dvm-task-2-41d6f.        
+[A[2K⠏ Registering new Firebase ios app on Firebase project dvm-task-2-41d6f.        
+[A[2K⠋ Registering new Firebase ios app on Firebase project dvm-task-2-41d6f.        
+[A[2K⠙ Registering new Firebase ios app on Firebase project dvm-task-2-41d6f.        
+[A[2K⠹ Registering new Firebase ios app on Firebase project dvm-task-2-41d6f.        
+[A[2K⠸ Registering new Firebase ios app on Firebase project dvm-task-2-41d6f.        
+[A[2K⠼ Registering new Firebase ios app on Firebase project dvm-task-2-41d6f.        
+[A[2K⠴ Registering new Firebase ios app on Firebase project dvm-task-2-41d6f.        
+[A[2K⠦ Registering new Firebase ios app on Firebase project dvm-task-2-41d6f.        
+[A[2K⠧ Registering new Firebase ios app on Firebase project dvm-task-2-41d6f.        
+[A[2K⠇ Registering new Firebase ios app on Firebase project dvm-task-2-41d6f.        
+[A[2K⠏ Registering new Firebase ios app on Firebase project dvm-task-2-41d6f.        
+[A[2K⠋ Registering new Firebase ios app on Firebase project dvm-task-2-41d6f.        
+[A[2K⠙ Registering new Firebase ios app on Firebase project dvm-task-2-41d6f.        
+[A[2Ki Registered a new Firebase ios app on Firebase project dvm-task-2-41d6f.       
+[?25h[?25l⠋ Fetching registered macos Firebase apps for project dvm-task-2-41d6f          
+[A[2K⠙ Fetching registered macos Firebase apps for project dvm-task-2-41d6f          
+[A[2K⠹ Fetching registered macos Firebase apps for project dvm-task-2-41d6f          
+[A[2K⠸ Fetching registered macos Firebase apps for project dvm-task-2-41d6f          
+[A[2K⠼ Fetching registered macos Firebase apps for project dvm-task-2-41d6f          
+[A[2K⠴ Fetching registered macos Firebase apps for project dvm-task-2-41d6f          
+[A[2K⠦ Fetching registered macos Firebase apps for project dvm-task-2-41d6f          
+[A[2K⠧ Fetching registered macos Firebase apps for project dvm-task-2-41d6f          
+[A[2K⠇ Fetching registered macos Firebase apps for project dvm-task-2-41d6f          
+[A[2K⠏ Fetching registered macos Firebase apps for project dvm-task-2-41d6f          
+[A[2K⠋ Fetching registered macos Firebase apps for project dvm-task-2-41d6f          
+[A[2K⠙ Fetching registered macos Firebase apps for project dvm-task-2-41d6f          
+[A[2K⠹ Fetching registered macos Firebase apps for project dvm-task-2-41d6f          
+[A[2K⠸ Fetching registered macos Firebase apps for project dvm-task-2-41d6f          
+[A[2K⠼ Fetching registered macos Firebase apps for project dvm-task-2-41d6f          
+[A[2K⠴ Fetching registered macos Firebase apps for project dvm-task-2-41d6f          
+[A[2K⠦ Fetching registered macos Firebase apps for project dvm-task-2-41d6f          
+[A[2K⠧ Fetching registered macos Firebase apps for project dvm-task-2-41d6f          
+[A[2Ki Firebase macos app com.example.suttTaskFinal.RunnerTests is not registered on Firebase project dvm-task-2-41d6f.
+[?25h[?25l⠋ Registering new Firebase macos app on Firebase project dvm-task-2-41d6f.      
+[A[2K⠙ Registering new Firebase macos app on Firebase project dvm-task-2-41d6f.      
+[A[2K⠹ Registering new Firebase macos app on Firebase project dvm-task-2-41d6f.      
+[A[2K⠸ Registering new Firebase macos app on Firebase project dvm-task-2-41d6f.      
+[A[2K⠼ Registering new Firebase macos app on Firebase project dvm-task-2-41d6f.      
+[A[2K⠴ Registering new Firebase macos app on Firebase project dvm-task-2-41d6f.      
+[A[2K⠦ Registering new Firebase macos app on Firebase project dvm-task-2-41d6f.      
+[A[2K⠧ Registering new Firebase macos app on Firebase project dvm-task-2-41d6f.      
+[A[2K⠇ Registering new Firebase macos app on Firebase project dvm-task-2-41d6f.      
+[A[2K⠏ Registering new Firebase macos app on Firebase project dvm-task-2-41d6f.      
+[A[2K⠋ Registering new Firebase macos app on Firebase project dvm-task-2-41d6f.      
+[A[2K⠙ Registering new Firebase macos app on Firebase project dvm-task-2-41d6f.      
+[A[2K⠹ Registering new Firebase macos app on Firebase project dvm-task-2-41d6f.      
+[A[2K⠸ Registering new Firebase macos app on Firebase project dvm-task-2-41d6f.      
+[A[2K⠼ Registering new Firebase macos app on Firebase project dvm-task-2-41d6f.      
+[A[2K⠴ Registering new Firebase macos app on Firebase project dvm-task-2-41d6f.      
+[A[2K⠦ Registering new Firebase macos app on Firebase project dvm-task-2-41d6f.      
+[A[2K⠧ Registering new Firebase macos app on Firebase project dvm-task-2-41d6f.      
+[A[2K⠇ Registering new Firebase macos app on Firebase project dvm-task-2-41d6f.      
+[A[2K⠏ Registering new Firebase macos app on Firebase project dvm-task-2-41d6f.      
+[A[2K⠋ Registering new Firebase macos app on Firebase project dvm-task-2-41d6f.      
+[A[2K⠙ Registering new Firebase macos app on Firebase project dvm-task-2-41d6f.      
+[A[2K⠹ Registering new Firebase macos app on Firebase project dvm-task-2-41d6f.      
+[A[2K⠸ Registering new Firebase macos app on Firebase project dvm-task-2-41d6f.      
+[A[2K⠼ Registering new Firebase macos app on Firebase project dvm-task-2-41d6f.      
+[A[2K⠴ Registering new Firebase macos app on Firebase project dvm-task-2-41d6f.      
+[A[2K⠦ Registering new Firebase macos app on Firebase project dvm-task-2-41d6f.      
+[A[2K⠧ Registering new Firebase macos app on Firebase project dvm-task-2-41d6f.      
+[A[2K⠇ Registering new Firebase macos app on Firebase project dvm-task-2-41d6f.      
+[A[2K⠏ Registering new Firebase macos app on Firebase project dvm-task-2-41d6f.      
+[A[2K⠋ Registering new Firebase macos app on Firebase project dvm-task-2-41d6f.      
+[A[2K⠙ Registering new Firebase macos app on Firebase project dvm-task-2-41d6f.      
+[A[2K⠹ Registering new Firebase macos app on Firebase project dvm-task-2-41d6f.      
+[A[2K⠸ Registering new Firebase macos app on Firebase project dvm-task-2-41d6f.      
+[A[2K⠼ Registering new Firebase macos app on Firebase project dvm-task-2-41d6f.      
+[A[2K⠴ Registering new Firebase macos app on Firebase project dvm-task-2-41d6f.      
+[A[2K⠦ Registering new Firebase macos app on Firebase project dvm-task-2-41d6f.      
+[A[2K⠧ Registering new Firebase macos app on Firebase project dvm-task-2-41d6f.      
+[A[2K⠇ Registering new Firebase macos app on Firebase project dvm-task-2-41d6f.      
+[A[2K⠏ Registering new Firebase macos app on Firebase project dvm-task-2-41d6f.      
+[A[2K⠋ Registering new Firebase macos app on Firebase project dvm-task-2-41d6f.      
+[A[2K⠙ Registering new Firebase macos app on Firebase project dvm-task-2-41d6f.      
+[A[2K⠹ Registering new Firebase macos app on Firebase project dvm-task-2-41d6f.      
+[A[2K⠸ Registering new Firebase macos app on Firebase project dvm-task-2-41d6f.      
+[A[2K⠼ Registering new Firebase macos app on Firebase project dvm-task-2-41d6f.      
+[A[2K⠴ Registering new Firebase macos app on Firebase project dvm-task-2-41d6f.      
+[A[2K⠦ Registering new Firebase macos app on Firebase project dvm-task-2-41d6f.      
+[A[2K⠧ Registering new Firebase macos app on Firebase project dvm-task-2-41d6f.      
+[A[2K⠇ Registering new Firebase macos app on Firebase project dvm-task-2-41d6f.      
+[A[2K⠏ Registering new Firebase macos app on Firebase project dvm-task-2-41d6f.      
+[A[2K⠋ Registering new Firebase macos app on Firebase project dvm-task-2-41d6f.      
+[A[2K⠙ Registering new Firebase macos app on Firebase project dvm-task-2-41d6f.      
+[A[2K⠹ Registering new Firebase macos app on Firebase project dvm-task-2-41d6f.      
+[A[2K⠸ Registering new Firebase macos app on Firebase project dvm-task-2-41d6f.      
+[A[2K⠼ Registering new Firebase macos app on Firebase project dvm-task-2-41d6f.      
+[A[2K⠴ Registering new Firebase macos app on Firebase project dvm-task-2-41d6f.      
+[A[2K⠦ Registering new Firebase macos app on Firebase project dvm-task-2-41d6f.      
+[A[2K⠧ Registering new Firebase macos app on Firebase project dvm-task-2-41d6f.      
+[A[2K⠇ Registering new Firebase macos app on Firebase project dvm-task-2-41d6f.      
+[A[2K⠏ Registering new Firebase macos app on Firebase project dvm-task-2-41d6f.      
+[A[2K⠋ Registering new Firebase macos app on Firebase project dvm-task-2-41d6f.      
+[A[2K⠙ Registering new Firebase macos app on Firebase project dvm-task-2-41d6f.      
+[A[2K⠹ Registering new Firebase macos app on Firebase project dvm-task-2-41d6f.      
+[A[2K⠸ Registering new Firebase macos app on Firebase project dvm-task-2-41d6f.      
+[A[2K⠼ Registering new Firebase macos app on Firebase project dvm-task-2-41d6f.      
+[A[2K⠴ Registering new Firebase macos app on Firebase project dvm-task-2-41d6f.      
+[A[2K⠦ Registering new Firebase macos app on Firebase project dvm-task-2-41d6f.      
+[A[2K⠧ Registering new Firebase macos app on Firebase project dvm-task-2-41d6f.      
+[A[2K⠇ Registering new Firebase macos app on Firebase project dvm-task-2-41d6f.      
+[A[2K⠏ Registering new Firebase macos app on Firebase project dvm-task-2-41d6f.      
+[A[2K⠋ Registering new Firebase macos app on Firebase project dvm-task-2-41d6f.      
+[A[2K⠙ Registering new Firebase macos app on Firebase project dvm-task-2-41d6f.      
+[A[2K⠹ Registering new Firebase macos app on Firebase project dvm-task-2-41d6f.      
+[A[2K⠸ Registering new Firebase macos app on Firebase project dvm-task-2-41d6f.      
+[A[2K⠼ Registering new Firebase macos app on Firebase project dvm-task-2-41d6f.      
+[A[2K⠴ Registering new Firebase macos app on Firebase project dvm-task-2-41d6f.      
+[A[2K⠦ Registering new Firebase macos app on Firebase project dvm-task-2-41d6f.      
+[A[2K⠧ Registering new Firebase macos app on Firebase project dvm-task-2-41d6f.      
+[A[2Ki Registered a new Firebase macos app on Firebase project dvm-task-2-41d6f.     
+[?25h[?25l⠋ Fetching registered web Firebase apps for project dvm-task-2-41d6f            
+[A[2K⠙ Fetching registered web Firebase apps for project dvm-task-2-41d6f            
+[A[2K⠹ Fetching registered web Firebase apps for project dvm-task-2-41d6f            
+[A[2K⠸ Fetching registered web Firebase apps for project dvm-task-2-41d6f            
+[A[2K⠼ Fetching registered web Firebase apps for project dvm-task-2-41d6f            
+[A[2K⠴ Fetching registered web Firebase apps for project dvm-task-2-41d6f            
+[A[2K⠦ Fetching registered web Firebase apps for project dvm-task-2-41d6f            
+[A[2K⠧ Fetching registered web Firebase apps for project dvm-task-2-41d6f            
+[A[2K⠇ Fetching registered web Firebase apps for project dvm-task-2-41d6f            
+[A[2K⠏ Fetching registered web Firebase apps for project dvm-task-2-41d6f            
+[A[2K⠋ Fetching registered web Firebase apps for project dvm-task-2-41d6f            
+[A[2K⠙ Fetching registered web Firebase apps for project dvm-task-2-41d6f            
+[A[2K⠹ Fetching registered web Firebase apps for project dvm-task-2-41d6f            
+[A[2K⠸ Fetching registered web Firebase apps for project dvm-task-2-41d6f            
+[A[2K⠼ Fetching registered web Firebase apps for project dvm-task-2-41d6f            
+[A[2K⠴ Fetching registered web Firebase apps for project dvm-task-2-41d6f            
+[A[2K⠦ Fetching registered web Firebase apps for project dvm-task-2-41d6f            
+[A[2Ki Firebase web app sutt_task_final (web) is not registered on Firebase project dvm-task-2-41d6f.
+[?25h[?25l⠋ Registering new Firebase web app on Firebase project dvm-task-2-41d6f.        
+[A[2K⠙ Registering new Firebase web app on Firebase project dvm-task-2-41d6f.        
+[A[2K⠹ Registering new Firebase web app on Firebase project dvm-task-2-41d6f.        
+[A[2K⠸ Registering new Firebase web app on Firebase project dvm-task-2-41d6f.        
+[A[2K⠼ Registering new Firebase web app on Firebase project dvm-task-2-41d6f.        
+[A[2K⠴ Registering new Firebase web app on Firebase project dvm-task-2-41d6f.        
+[A[2K⠦ Registering new Firebase web app on Firebase project dvm-task-2-41d6f.        
+[A[2K⠧ Registering new Firebase web app on Firebase project dvm-task-2-41d6f.        
+[A[2K⠇ Registering new Firebase web app on Firebase project dvm-task-2-41d6f.        
+[A[2K⠏ Registering new Firebase web app on Firebase project dvm-task-2-41d6f.        
+[A[2K⠋ Registering new Firebase web app on Firebase project dvm-task-2-41d6f.        
+[A[2K⠙ Registering new Firebase web app on Firebase project dvm-task-2-41d6f.        
+[A[2K⠹ Registering new Firebase web app on Firebase project dvm-task-2-41d6f.        
+[A[2K⠸ Registering new Firebase web app on Firebase project dvm-task-2-41d6f.        
+[A[2K⠼ Registering new Firebase web app on Firebase project dvm-task-2-41d6f.        
+[A[2K⠴ Registering new Firebase web app on Firebase project dvm-task-2-41d6f.        
+[A[2K⠦ Registering new Firebase web app on Firebase project dvm-task-2-41d6f.        
+[A[2K⠧ Registering new Firebase web app on Firebase project dvm-task-2-41d6f.        
+[A[2K⠇ Registering new Firebase web app on Firebase project dvm-task-2-41d6f.        
+[A[2K⠏ Registering new Firebase web app on Firebase project dvm-task-2-41d6f.        
+[A[2K⠋ Registering new Firebase web app on Firebase project dvm-task-2-41d6f.        
+[A[2K⠙ Registering new Firebase web app on Firebase project dvm-task-2-41d6f.        
+[A[2K⠹ Registering new Firebase web app on Firebase project dvm-task-2-41d6f.        
+[A[2K⠸ Registering new Firebase web app on Firebase project dvm-task-2-41d6f.        
+[A[2K⠼ Registering new Firebase web app on Firebase project dvm-task-2-41d6f.        
+[A[2K⠴ Registering new Firebase web app on Firebase project dvm-task-2-41d6f.        
+[A[2K⠦ Registering new Firebase web app on Firebase project dvm-task-2-41d6f.        
+[A[2K⠧ Registering new Firebase web app on Firebase project dvm-task-2-41d6f.        
+[A[2K⠇ Registering new Firebase web app on Firebase project dvm-task-2-41d6f.        
+[A[2K⠏ Registering new Firebase web app on Firebase project dvm-task-2-41d6f.        
+[A[2K⠋ Registering new Firebase web app on Firebase project dvm-task-2-41d6f.        
+[A[2K⠙ Registering new Firebase web app on Firebase project dvm-task-2-41d6f.        
+[A[2K⠹ Registering new Firebase web app on Firebase project dvm-task-2-41d6f.        
+[A[2K⠸ Registering new Firebase web app on Firebase project dvm-task-2-41d6f.        
+[A[2K⠼ Registering new Firebase web app on Firebase project dvm-task-2-41d6f.        
+[A[2K⠴ Registering new Firebase web app on Firebase project dvm-task-2-41d6f.        
+[A[2K⠦ Registering new Firebase web app on Firebase project dvm-task-2-41d6f.        
+[A[2K⠧ Registering new Firebase web app on Firebase project dvm-task-2-41d6f.        
+[A[2K⠇ Registering new Firebase web app on Firebase project dvm-task-2-41d6f.        
+[A[2K⠏ Registering new Firebase web app on Firebase project dvm-task-2-41d6f.        
+[A[2K⠋ Registering new Firebase web app on Firebase project dvm-task-2-41d6f.        
+[A[2K⠙ Registering new Firebase web app on Firebase project dvm-task-2-41d6f.        
+[A[2K⠹ Registering new Firebase web app on Firebase project dvm-task-2-41d6f.        
+[A[2K⠸ Registering new Firebase web app on Firebase project dvm-task-2-41d6f.        
+[A[2K⠼ Registering new Firebase web app on Firebase project dvm-task-2-41d6f.        
+[A[2K⠴ Registering new Firebase web app on Firebase project dvm-task-2-41d6f.        
+[A[2K⠦ Registering new Firebase web app on Firebase project dvm-task-2-41d6f.        
+[A[2K⠧ Registering new Firebase web app on Firebase project dvm-task-2-41d6f.        
+[A[2K⠇ Registering new Firebase web app on Firebase project dvm-task-2-41d6f.        
+[A[2K⠏ Registering new Firebase web app on Firebase project dvm-task-2-41d6f.        
+[A[2K⠋ Registering new Firebase web app on Firebase project dvm-task-2-41d6f.        
+[A[2K⠙ Registering new Firebase web app on Firebase project dvm-task-2-41d6f.        
+[A[2K⠹ Registering new Firebase web app on Firebase project dvm-task-2-41d6f.        
+[A[2K⠸ Registering new Firebase web app on Firebase project dvm-task-2-41d6f.        
+[A[2K⠼ Registering new Firebase web app on Firebase project dvm-task-2-41d6f.        
+[A[2K⠴ Registering new Firebase web app on Firebase project dvm-task-2-41d6f.        
+[A[2K⠦ Registering new Firebase web app on Firebase project dvm-task-2-41d6f.        
+[A[2K⠧ Registering new Firebase web app on Firebase project dvm-task-2-41d6f.        
+[A[2K⠇ Registering new Firebase web app on Firebase project dvm-task-2-41d6f.        
+[A[2K⠏ Registering new Firebase web app on Firebase project dvm-task-2-41d6f.        
+[A[2K⠋ Registering new Firebase web app on Firebase project dvm-task-2-41d6f.        
+[A[2K⠙ Registering new Firebase web app on Firebase project dvm-task-2-41d6f.        
+[A[2K⠹ Registering new Firebase web app on Firebase project dvm-task-2-41d6f.        
+[A[2K⠸ Registering new Firebase web app on Firebase project dvm-task-2-41d6f.        
+[A[2K⠼ Registering new Firebase web app on Firebase project dvm-task-2-41d6f.        
+[A[2K⠴ Registering new Firebase web app on Firebase project dvm-task-2-41d6f.        
+[A[2K⠦ Registering new Firebase web app on Firebase project dvm-task-2-41d6f.        
+[A[2K⠧ Registering new Firebase web app on Firebase project dvm-task-2-41d6f.        
+[A[2K⠇ Registering new Firebase web app on Firebase project dvm-task-2-41d6f.        
+[A[2K⠏ Registering new Firebase web app on Firebase project dvm-task-2-41d6f.        
+[A[2K⠋ Registering new Firebase web app on Firebase project dvm-task-2-41d6f.        
+[A[2K⠙ Registering new Firebase web app on Firebase project dvm-task-2-41d6f.        
+[A[2K⠹ Registering new Firebase web app on Firebase project dvm-task-2-41d6f.        
+[A[2K⠸ Registering new Firebase web app on Firebase project dvm-task-2-41d6f.        
+[A[2K⠼ Registering new Firebase web app on Firebase project dvm-task-2-41d6f.        
+[A[2K⠴ Registering new Firebase web app on Firebase project dvm-task-2-41d6f.        
+[A[2K⠦ Registering new Firebase web app on Firebase project dvm-task-2-41d6f.        
+[A[2K⠧ Registering new Firebase web app on Firebase project dvm-task-2-41d6f.        
+[A[2K⠇ Registering new Firebase web app on Firebase project dvm-task-2-41d6f.        
+[A[2Ki Registered a new Firebase web app on Firebase project dvm-task-2-41d6f.       
+[?25h[?25l? The files android/build.gradle & android/app/build.gradle will be updated to apply Firebase configuration and gradle build plugins. Do you want to continue? (y/n) › yes
+[A[2K✔ The files android/build.gradle & android/app/build.gradle will be updated to apply Firebase configuration and gradle build plugins. Do you want to continue? · yes 
+[?25h
+Firebase configuration file lib/firebase_options.dart generated successfully with the following Firebase apps:
+
+Platform  Firebase App Id
+web       1:553778715575:web:79acda5bd57fe81fa42632
+android   1:553778715575:android:2c48fffc07681783a42632
+ios       1:553778715575:ios:d4b2f72c6f6ba734a42632
+macos     1:553778715575:ios:fd090df26a443c53a42632
+
+Learn more about using this file and next steps from the documentation:
+ > https://firebase.google.com/docs/flutter/setup
